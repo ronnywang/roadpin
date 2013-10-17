@@ -34,8 +34,3 @@ or
 
 nosetests [filename]
 
-To run replay test:
-==========
-scripts/test_bid_requester.sh
-(You need to attach your .ssh/id_rsa.pub to root@192.168.168.191:.ssh/authorized_keys)
-
