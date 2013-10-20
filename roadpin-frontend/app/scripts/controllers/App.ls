@@ -27,6 +27,7 @@ angular.module 'roadpinFrontendApp'
     gridOptions = 
       data: 'the_data'
       enablePaging: true
+      showFilter: true
       columnDefs: 
         * field: 'county_name'
           displayName: '縣市'
